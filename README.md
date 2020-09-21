@@ -3,6 +3,7 @@ An analysis of the percentage increase in world population, changing fertility r
 
 This was a group report as part of an assignment for the Data Visualisation module as part of the MSc in Data Analytics. 
 
+The assignment can be seen by opening CT5100_Assignment_2.pdf
 
 ### Assignment details: 
 
